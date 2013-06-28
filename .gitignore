@@ -1,0 +1,6 @@
+NOTES
+*.gem
+.bundle
+Gemfile.lock
+tmp/
+npm-debug.log
